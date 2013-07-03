@@ -1,0 +1,31 @@
+{
+  "name": "demo-profile-extraction",
+  "version": "0.0.1",
+  "author": "James Lal [:lightsofapollo]",
+  "description": "Demo for jhylands",
+  "main": "index.js",
+  "private": true,
+  "keywords": [
+    "firefox os",
+    "gecko",
+    "b2g-desktop",
+    "firefox",
+    "webapp",
+    "packaged"
+  ],
+  "dependencies" : {
+    "marionette-host-environment": "~0.3.3",
+    "marionette-client": "~0.8.0",
+    "marionette-apps": "git://github.com/lightsofapollo/marionette-apps.git#launch"
+  },
+  "devDependencies": {
+  },
+  "license": "MIT",
+  "engine": {
+    "node": ">=0.4"
+  },
+
+  "scripts": {
+    "test": "make test"
+  }
+}
