@@ -21,8 +21,8 @@ You should see something like:
 
 TLDR;
 
-index.js - boilerplate
-lib/extract.js - does calendar launch, close and finds idb dir.
+  - index.js - boilerplate
+  - lib/extract.js - does calendar launch, close and finds idb dir.
 
 More:
 
