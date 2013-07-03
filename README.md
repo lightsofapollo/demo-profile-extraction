@@ -6,6 +6,9 @@ which sets up the basics for marionette to run.
 
 ## Usage:
 
+You need a github ssh key right now- I used a reference to my in-development branch which has not landed yet.
+Once that lands the package.json can be updated to a real version of marionette-apps.
+
 ```sh
 make
 ```
